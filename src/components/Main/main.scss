@@ -1,0 +1,46 @@
+.Main{
+    height: calc(100vh - 100px);
+    background-color: #05182E;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    
+  .content {
+     h1{
+        padding:4rem 0rem;
+        color: rgb(5, 213, 250);
+     }
+     p{
+        font-size: 4rem;
+        width: 40rem;
+        color: white;
+        margin-bottom: 4rem;
+        // margin-top:;
+     }
+     a{
+        padding:1.2rem;
+        margin-left: 2rem;
+        border-radius: 5px;
+       
+       
+     }
+     .contact{
+        background-color: whitesmoke;
+        border: none;
+        color: black;
+    }
+    .work{
+        border: solid purple ;
+        
+    }
+    
+    }
+  
+    #me{
+       width: 30rem;
+
+    }
+
+}

@@ -1,0 +1,30 @@
+.navbar{
+    height: 100px;
+    // color: white;
+    background-color: #121314;
+    
+}
+.wrapper{
+    max-width: 1366px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+
+    h1{
+        font-weight: bold;
+        color: white;
+    
+    }
+    .socials{
+        display: flex;
+        gap: 20px;
+    }
+    a > svg{
+        fill: white;
+    }
+
+}
+

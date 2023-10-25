@@ -1,0 +1,24 @@
+.About {
+    background-color: #132238;
+    height: 100vh;
+
+    .mainContent{
+        display: flex;
+        color: white;
+        // margin: auto;
+        max-width: 1366px;
+        height: 100vh;
+        align-items: center;
+        justify-content: space-around;
+        .aboutP{
+            width: 50%;
+        }
+    }
+    .skills{
+        font-size: 4rem;
+        // justify-content: space-around;
+        span{
+        }
+
+    }
+}
