@@ -15,13 +15,10 @@ function App() {
     </section>
     {/* <section >Herro</section> */}
     <section id='About'><About/></section>
-    <section id='Portfolio'>
-      <Work/>
-      </section>
-    <section>portfolio</section>
-
-    <section>portfolio 2</section>
-    <section>portfolio 3</section>
+    {/* <section id='Portfolio'> */}
+      {/* </section> */}
+    <span id='Portfolio'><Work/>
+</span>  
     <section id='Contact'><Contact/></section>
    
     </>

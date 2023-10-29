@@ -13,10 +13,11 @@ html{
 // }
 
 section{
-
+    // width: 100vw;
     height: 100vh;
     scroll-snap-align: center;
     overflow: hidden;
+
 }
 #Main{
     background-color: #05182E;
