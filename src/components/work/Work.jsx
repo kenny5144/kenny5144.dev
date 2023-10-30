@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import "./work.scss";
-import Projects from "./projects";
+import Projects from "./Projects";
 import { motion, useScroll, useSpring } from "framer-motion";
 import { items } from "./Items";
 
